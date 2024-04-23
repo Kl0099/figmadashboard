@@ -1,0 +1,18 @@
+.placeholders {
+  padding: auto;
+}
+
+.placeholders::placeholder {
+  font-weight: 400;
+  font-size: 16px !important;
+  line-height: 24px !important;
+  padding-left: 10px !important;
+}
+
+.purplegradient {
+  background: linear-gradient(
+    135deg,
+    rgba(233, 74, 188, 1),
+    rgba(206, 72, 217, 1)
+  );
+}
